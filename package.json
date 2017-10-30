@@ -2,6 +2,13 @@
   "name": "phonegap-plugin-barcode_scanner_56n",
   "version": "1.0.0",
   "description": "Barcode Scanner Return Numbers",
+  "cordova": {
+    "id": "cordova-plugin-barcode_scanner_56n",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
   "keywords": [
     "cordova",
     "phonegap",
@@ -19,6 +26,10 @@
   "author": {
     "name": "Francis",
     "url": "solidfoundationwebdev.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HuangMingFrancis/barcode_scanner_56n"
   },
   "license": "Apache 2.0",
   "dependencies": {
