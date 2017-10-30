@@ -1,6 +1,6 @@
 {
   "name": "phonegap-plugin-barcode_scanner_56n",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Barcode Scanner Return Numbers",
   "cordova": {
     "id": "cordova-plugin-barcode_scanner_56n",

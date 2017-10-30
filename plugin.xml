@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-barcode_scanner_56n" version="1.0.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-barcode_scanner_56n" version="1.0.3">
     <name>Barcode_Scanner_56N</name>
     <author>Francis</author>
     <description>Barcode Scanner Return Numbers</description>
