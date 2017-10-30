@@ -1,0 +1,29 @@
+{
+  "name": "barcode_scanner_56n",
+  "version": "1.0.0",
+  "description": "cordova plugin barcode scanner",
+  "cordova": {
+    "id": "barcode_scanner_56n",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuangMingFrancis/barcode_scanner_56n.git"
+  },
+  "keywords": [
+    "barcode"
+  ],
+  "author": "Francis.Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuangMingFrancis/barcode_scanner_56n/issues"
+  },
+  "homepage": "https://github.com/HuangMingFrancis/barcode_scanner_56n#readme"
+}
